@@ -145,7 +145,7 @@ App will start on:
 
 **Jayanth Jayadevan**
 Software Engineer @ Microsoft
-🔗 [LinkedIn](https://www.linkedin.com/in/jayanthjayadevan)
+🔗 [LinkedIn](https://www.linkedin.com/in/jayanthjj)
 
 ---
 
